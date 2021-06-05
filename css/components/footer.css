@@ -1,0 +1,21 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: rgba(50,50,50);
+}
+
+.footer a {
+  font-size: 40px;
+  color:  #6decb9;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+.social-ikon {
+  color: #6decb9;
+}
+
+.social-ikon:hover {
+  color: #01d28e;
+}
